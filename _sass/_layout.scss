@@ -179,7 +179,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 20px 0;
 }
 
 .page-heading {
@@ -220,6 +220,7 @@
 
   @include media-query($on-phone) {
     float:none;
+    margin-top: 5px;
     text-align: right;
   }
 }
