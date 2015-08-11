@@ -1,0 +1,14 @@
+# Site settings
+title: DREW BLUMBERG
+head_title: Drew Blumberg, Web Developer
+email: alblumberg21@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  © 2015,  Drew Blumberg
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "drewblumberg.com" # the base hostname & protocol for your site
+twitter_username: d_funkarelli
+github_username:  drewblumberg
+linkedin_username:  drewblumberg
+
+# Build settings
+markdown: kramdown
