@@ -83,6 +83,11 @@ $on-laptop:        800px;
   width: 50px;
 }
 
+.twitter-tweet {
+  margin: auto!important;
+  margin-bottom: 15px!important;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
