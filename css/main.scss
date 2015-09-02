@@ -88,6 +88,12 @@ $on-laptop:        800px;
   margin-bottom: 15px!important;
 }
 
+.spaced-list {
+  li {
+    margin: 10px 0 10px 0;
+  }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
