@@ -10,7 +10,7 @@ Buying gifts is difficult, even for the most considerate of people. It takes tim
 
 <ol>
   <li>
-    <a href="http://www.amazon.com/dp/B016VXVMEM/ref=gbps_img_s-3_3022_86fc3345?smid=ATVPDKIKX0DER&pf_rd_p=2292853022&pf_rd_s=slot-3&pf_rd_t=701&pf_rd_i=gb_all&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=08C2SGH0D284PQ11B4ZC">Coolest Cooler in Blue Moon</a> - For the person on your list looking to bag the hottest lady at the Dothan, AL RV park, this cooler will not disappoint. A hallmark of craftsmanship, your new friend will surely take notice as you sit on top of it drinking a Busch Light at 9:30 am.
+    <a href="http://www.amazon.com/dp/B016VXVMEM/ref=gbps_img_s-3_3022_86fc3345?smid=ATVPDKIKX0DER&pf_rd_p=2292853022&pf_rd_s=slot-3&pf_rd_t=701&pf_rd_i=gb_all&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=08C2SGH0D284PQ11B4ZC">Coolest Cooler in Blue Moon</a> - For the person on your list looking to bag the hottest lady at the Dothan, AL RV park, this cooler will not disappoint. A hallmark of craftsmanship, your new friend will surely command attention as he sits on top of it drinking a Busch Light at 9:30 am.
 
     <div style="max-width: 440px;" class="center-image">
       <img src="{{ site.url }}/assets/cooler.jpg">
